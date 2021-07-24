@@ -1,0 +1,2 @@
+# SampAntiCrash
+-Enjoy
